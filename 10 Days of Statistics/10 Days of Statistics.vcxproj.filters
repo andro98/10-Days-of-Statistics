@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="10 Days of Statistics.cpp">
+    <ClCompile Include="Day 0 Weighted Mean.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
